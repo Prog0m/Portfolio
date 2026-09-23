@@ -1,1 +1,1 @@
-NIELSEN DIGITAL PORTFOLIO`r`n`r`nUpload index.html and Nielsen-Digital-logo.png to your GitHub repository and enable GitHub Pages. The page uses no JavaScript. Its CSS is inside index.html.`r`n`r`nTo add another website, duplicate a project radio, label, and project-panel article in index.html. Update the radio ID, label, title, description, website URL, preview URL, address, and project number. Add a matching checked-state CSS selector alongside the site1/site2/site3 rules in the style block.
+
